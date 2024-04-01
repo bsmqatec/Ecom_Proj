@@ -46,7 +46,7 @@ public MenPageTest() {
 		String pageTitle = menPage.getPageTitle();
 		System.out.println("Page title is = " + pageTitle);
 		
-		Assert.assertEquals(pageTitle, "Men", "***Men Page Title not Found***");
+		Assert.assertEquals(pageTitle, "Men", "***Men Page Title is not Found***");
 	}
 	
 	@Test(priority = 2)

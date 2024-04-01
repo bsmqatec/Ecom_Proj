@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="12" passed="12" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-31T10:20:35 IST" name="Suite" finished-at="2024-03-31T10:22:49 IST" duration-ms="133742">
+    <groups>
+    </groups>
+    <test started-at="2024-03-31T10:20:35 IST" name="Test" finished-at="2024-03-31T10:22:49 IST" duration-ms="133742">
+      <class name="com.ecom.qa.testcases.MenPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.ecom.qa.testcases.MenPageTest@6fa51cd4]" started-at="2024-03-31T10:21:01 IST" name="setUp" finished-at="2024-03-31T10:21:16 IST" duration-ms="15052" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validatePageTitle()[pri:1, instance:com.ecom.qa.testcases.MenPageTest@6fa51cd4]" started-at="2024-03-31T10:21:16 IST" name="validatePageTitle" finished-at="2024-03-31T10:21:16 IST" duration-ms="18" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatePageTitle -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ecom.qa.testcases.MenPageTest@6fa51cd4]" started-at="2024-03-31T10:21:16 IST" name="tearDown" finished-at="2024-03-31T10:21:16 IST" duration-ms="308" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.ecom.qa.testcases.MenPageTest@6fa51cd4]" started-at="2024-03-31T10:21:16 IST" name="setUp" finished-at="2024-03-31T10:21:28 IST" duration-ms="11961" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validatePageLabel()[pri:2, instance:com.ecom.qa.testcases.MenPageTest@6fa51cd4]" started-at="2024-03-31T10:21:28 IST" name="validatePageLabel" finished-at="2024-03-31T10:21:28 IST" duration-ms="87" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatePageLabel -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ecom.qa.testcases.MenPageTest@6fa51cd4]" started-at="2024-03-31T10:21:28 IST" name="tearDown" finished-at="2024-03-31T10:21:29 IST" duration-ms="348" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.ecom.qa.testcases.MenPageTest@6fa51cd4]" started-at="2024-03-31T10:21:29 IST" name="setUp" finished-at="2024-03-31T10:21:41 IST" duration-ms="12001" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="clickMenLink()[pri:3, instance:com.ecom.qa.testcases.MenPageTest@6fa51cd4]" started-at="2024-03-31T10:21:41 IST" name="clickMenLink" finished-at="2024-03-31T10:21:42 IST" duration-ms="1538" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickMenLink -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ecom.qa.testcases.MenPageTest@6fa51cd4]" started-at="2024-03-31T10:21:42 IST" name="tearDown" finished-at="2024-03-31T10:21:43 IST" duration-ms="340" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.ecom.qa.testcases.MenPageTest -->
+      <class name="com.ecom.qa.testcases.AccountPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.ecom.qa.testcases.AccountPageTest@710c2b53]" started-at="2024-03-31T10:22:21 IST" name="setUp" finished-at="2024-03-31T10:22:30 IST" duration-ms="9278" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validateUserName()[pri:1, instance:com.ecom.qa.testcases.AccountPageTest@710c2b53]" started-at="2024-03-31T10:22:30 IST" name="validateUserName" finished-at="2024-03-31T10:22:30 IST" duration-ms="20" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateUserName -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ecom.qa.testcases.AccountPageTest@710c2b53]" started-at="2024-03-31T10:22:30 IST" name="tearDown" finished-at="2024-03-31T10:22:31 IST" duration-ms="323" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.ecom.qa.testcases.AccountPageTest@710c2b53]" started-at="2024-03-31T10:22:31 IST" name="setUp" finished-at="2024-03-31T10:22:39 IST" duration-ms="8242" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validateUserNameLabel()[pri:2, instance:com.ecom.qa.testcases.AccountPageTest@710c2b53]" started-at="2024-03-31T10:22:39 IST" name="validateUserNameLabel" finished-at="2024-03-31T10:22:39 IST" duration-ms="55" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateUserNameLabel -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ecom.qa.testcases.AccountPageTest@710c2b53]" started-at="2024-03-31T10:22:39 IST" name="tearDown" finished-at="2024-03-31T10:22:39 IST" duration-ms="343" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.ecom.qa.testcases.AccountPageTest@710c2b53]" started-at="2024-03-31T10:22:39 IST" name="setUp" finished-at="2024-03-31T10:22:47 IST" duration-ms="7940" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="clickFragranceLink()[pri:3, instance:com.ecom.qa.testcases.AccountPageTest@710c2b53]" started-at="2024-03-31T10:22:47 IST" name="clickFragranceLink" finished-at="2024-03-31T10:22:48 IST" duration-ms="1222" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickFragranceLink -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ecom.qa.testcases.AccountPageTest@710c2b53]" started-at="2024-03-31T10:22:48 IST" name="tearDown" finished-at="2024-03-31T10:22:49 IST" duration-ms="226" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.ecom.qa.testcases.AccountPageTest -->
+      <class name="com.ecom.qa.testcases.FragrancePageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.ecom.qa.testcases.FragrancePageTest@2767e23c]" started-at="2024-03-31T10:21:43 IST" name="setUp" finished-at="2024-03-31T10:21:55 IST" duration-ms="12887" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validatePageTitle()[pri:1, instance:com.ecom.qa.testcases.FragrancePageTest@2767e23c]" started-at="2024-03-31T10:21:55 IST" name="validatePageTitle" finished-at="2024-03-31T10:21:55 IST" duration-ms="26" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatePageTitle -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ecom.qa.testcases.FragrancePageTest@2767e23c]" started-at="2024-03-31T10:21:55 IST" name="tearDown" finished-at="2024-03-31T10:21:56 IST" duration-ms="309" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.ecom.qa.testcases.FragrancePageTest@2767e23c]" started-at="2024-03-31T10:21:56 IST" name="setUp" finished-at="2024-03-31T10:22:07 IST" duration-ms="11405" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validatePageLabel()[pri:2, instance:com.ecom.qa.testcases.FragrancePageTest@2767e23c]" started-at="2024-03-31T10:22:07 IST" name="validatePageLabel" finished-at="2024-03-31T10:22:07 IST" duration-ms="86" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatePageLabel -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ecom.qa.testcases.FragrancePageTest@2767e23c]" started-at="2024-03-31T10:22:07 IST" name="tearDown" finished-at="2024-03-31T10:22:08 IST" duration-ms="430" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.ecom.qa.testcases.FragrancePageTest@2767e23c]" started-at="2024-03-31T10:22:08 IST" name="setUp" finished-at="2024-03-31T10:22:19 IST" duration-ms="11689" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="clickMenLink()[pri:3, instance:com.ecom.qa.testcases.FragrancePageTest@2767e23c]" started-at="2024-03-31T10:22:19 IST" name="clickMenLink" finished-at="2024-03-31T10:22:21 IST" duration-ms="1162" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickMenLink -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ecom.qa.testcases.FragrancePageTest@2767e23c]" started-at="2024-03-31T10:22:21 IST" name="tearDown" finished-at="2024-03-31T10:22:21 IST" duration-ms="381" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.ecom.qa.testcases.FragrancePageTest -->
+      <class name="com.ecom.qa.testcases.LoginPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.ecom.qa.testcases.LoginPageTest@7674f035]" started-at="2024-03-31T10:20:35 IST" name="setUp" finished-at="2024-03-31T10:20:42 IST" duration-ms="7391" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginPageTitleTest()[pri:1, instance:com.ecom.qa.testcases.LoginPageTest@7674f035]" started-at="2024-03-31T10:20:42 IST" name="loginPageTitleTest" finished-at="2024-03-31T10:20:42 IST" duration-ms="53" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageTitleTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ecom.qa.testcases.LoginPageTest@7674f035]" started-at="2024-03-31T10:20:42 IST" name="tearDown" finished-at="2024-03-31T10:20:43 IST" duration-ms="404" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.ecom.qa.testcases.LoginPageTest@7674f035]" started-at="2024-03-31T10:20:43 IST" name="setUp" finished-at="2024-03-31T10:20:51 IST" duration-ms="8518" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="qaFoxLogoImageTest()[pri:2, instance:com.ecom.qa.testcases.LoginPageTest@7674f035]" started-at="2024-03-31T10:20:51 IST" name="qaFoxLogoImageTest" finished-at="2024-03-31T10:20:51 IST" duration-ms="117" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- qaFoxLogoImageTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ecom.qa.testcases.LoginPageTest@7674f035]" started-at="2024-03-31T10:20:51 IST" name="tearDown" finished-at="2024-03-31T10:20:52 IST" duration-ms="326" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.ecom.qa.testcases.LoginPageTest@7674f035]" started-at="2024-03-31T10:20:52 IST" name="setUp" finished-at="2024-03-31T10:20:57 IST" duration-ms="5637" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginTest()[pri:3, instance:com.ecom.qa.testcases.LoginPageTest@7674f035]" started-at="2024-03-31T10:20:57 IST" name="loginTest" finished-at="2024-03-31T10:21:01 IST" duration-ms="3155" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ecom.qa.testcases.LoginPageTest@7674f035]" started-at="2024-03-31T10:21:01 IST" name="tearDown" finished-at="2024-03-31T10:21:01 IST" duration-ms="318" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.ecom.qa.testcases.LoginPageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

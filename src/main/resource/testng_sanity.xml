@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="ECommerce_Proj">
+  <test name="EcomTestCases">
+    <classes>
+      <class name="com.ecom.qa.testcases.LoginPageTest"/>
+      <class name="com.ecom.qa.testcases.AccountPageTest"/>
+      <class name="com.ecom.qa.testcases.FragrancePageTest"/>
+      
+      
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
